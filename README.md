@@ -408,43 +408,29 @@ Applications should use modern password-hashing mechanisms designed to resist of
 
 ![PDF Hash Extraction](01-pdf2john-hash-extraction.png)
 
----
-
 ## Networkwalks Dictionary Attack — Target 1
 
 ![Dictionary Attack Target 1](02-dictionary-attack-lab-password1.png)
-
----
 
 ## Networkwalks Dictionary Attack — Target 2
 
 ![Dictionary Attack Target 2](03-dictionary-attack-lab-1qaz2wsx.png)
 
----
-
 ## Johnny GUI — Target 1
 
 ![Johnny GUI Target 1](04-johnny-gui-password1-cracked.png)
-
----
 
 ## Johnny GUI — Target 2
 
 ![Johnny GUI Target 2](05-johnny-gui-1qaz2wsx-cracked.png)
 
----
-
 ## Networkwalks Persistence Flag
 
 ![Networkwalks Persistence Flag](06-flag-networkwalks-persistence.png)
 
----
-
 ## Cybersecurity Flag
 
 ![Cybersecurity Flag](07-flag-cybersecurity-captured.png)
-
----
 
 # 🎓 Learning Outcomes
 
