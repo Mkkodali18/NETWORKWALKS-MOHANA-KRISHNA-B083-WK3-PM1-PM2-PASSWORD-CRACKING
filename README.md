@@ -481,7 +481,7 @@ Tools and concepts demonstrated in this project include:
 
 # 👨‍💻 Author
 
-**M K Kodali**
+**KODALI MOHANA KRISHNA**
 
 Cybersecurity Enthusiast | Security Lab Projects | Ethical Hacking
 
