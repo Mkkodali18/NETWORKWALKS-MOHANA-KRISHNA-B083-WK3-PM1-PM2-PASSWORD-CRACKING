@@ -431,7 +431,6 @@ Applications should use modern password-hashing mechanisms designed to resist of
 ## Cybersecurity Flag
 
 ![Cybersecurity Flag](07-flag-cybersecurity-captured.png)
-
 # 🎓 Learning Outcomes
 
 After completing this project, the following concepts were practically demonstrated:
