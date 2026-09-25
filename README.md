@@ -115,7 +115,7 @@ A PDF hash-extraction process was used to obtain a crackable representation of t
 
 ### Screenshot
 
-![PDF Hash Extraction](images/01-pdf2john-hash-extraction.png)
+![PDF Hash Extraction](01-pdf2john-hash-extraction.png)
 
 ### What this demonstrates
 
@@ -162,7 +162,7 @@ Recovered Password: password1
 
 ### Screenshot
 
-![Dictionary Attack - Password 1](images/02-dictionary-attack-lab-password1.png)
+![Dictionary Attack - Password 1](02-dictionary-attack-lab-password1.png)
 
 The laboratory demonstrated that a common and predictable password can appear very early in a relatively small wordlist.
 
@@ -180,7 +180,7 @@ Recovered Password: 1qaz2wsx
 
 ### Screenshot
 
-![Dictionary Attack - 1qaz2wsx](images/03-dictionary-attack-lab-1qaz2wsx.png)
+![Dictionary Attack - 1qaz2wsx](03-dictionary-attack-lab-1qaz2wsx.png)
 
 This example demonstrates another important password-security weakness: **predictable keyboard patterns** can also make passwords easier to guess.
 
@@ -206,7 +206,7 @@ Password: password1
 
 ### Screenshot
 
-![Johnny GUI Password 1](images/04-johnny-gui-password1-cracked.png)
+![Johnny GUI Password 1](04-johnny-gui-password1-cracked.png)
 
 The result matched the password recovered during the Networkwalks laboratory.
 
@@ -224,7 +224,7 @@ Password: 1qaz2wsx
 
 ### Screenshot
 
-![Johnny GUI 1qaz2wsx](images/05-johnny-gui-1qaz2wsx-cracked.png)
+![Johnny GUI 1qaz2wsx](05-johnny-gui-1qaz2wsx-cracked.png)
 
 The result again matched the previous laboratory exercise.
 
@@ -282,7 +282,7 @@ Successful completion of the training activities produced the following laborato
 
 ## 🛡️ Cybersecurity Flag
 
-![Cybersecurity Flag](images/07-flag-cybersecurity-captured.png)
+![Cybersecurity Flag](07-flag-cybersecurity-captured.png)
 
 ```text
 nw{cybersecurity_flag_captured_2608}
@@ -292,7 +292,7 @@ nw{cybersecurity_flag_captured_2608}
 
 ## 🔥 Networkwalks Persistence Flag
 
-![Networkwalks Persistence Flag](images/06-flag-networkwalks-persistence.png)
+![Networkwalks Persistence Flag](06-flag-networkwalks-persistence.png)
 
 ```text
 nw{networkwalks_persistence_jtr_270521}
@@ -406,43 +406,43 @@ Applications should use modern password-hashing mechanisms designed to resist of
 
 ## PDF Hash Extraction
 
-![PDF Hash Extraction](images/01-pdf2john-hash-extraction.png)
+![PDF Hash Extraction](01-pdf2john-hash-extraction.png)
 
 ---
 
 ## Networkwalks Dictionary Attack — Target 1
 
-![Dictionary Attack Target 1](images/02-dictionary-attack-lab-password1.png)
+![Dictionary Attack Target 1](02-dictionary-attack-lab-password1.png)
 
 ---
 
 ## Networkwalks Dictionary Attack — Target 2
 
-![Dictionary Attack Target 2](images/03-dictionary-attack-lab-1qaz2wsx.png)
+![Dictionary Attack Target 2](03-dictionary-attack-lab-1qaz2wsx.png)
 
 ---
 
 ## Johnny GUI — Target 1
 
-![Johnny GUI Target 1](images/04-johnny-gui-password1-cracked.png)
+![Johnny GUI Target 1](04-johnny-gui-password1-cracked.png)
 
 ---
 
 ## Johnny GUI — Target 2
 
-![Johnny GUI Target 2](images/05-johnny-gui-1qaz2wsx-cracked.png)
+![Johnny GUI Target 2](05-johnny-gui-1qaz2wsx-cracked.png)
 
 ---
 
 ## Networkwalks Persistence Flag
 
-![Networkwalks Persistence Flag](images/06-flag-networkwalks-persistence.png)
+![Networkwalks Persistence Flag](06-flag-networkwalks-persistence.png)
 
 ---
 
 ## Cybersecurity Flag
 
-![Cybersecurity Flag](images/07-flag-cybersecurity-captured.png)
+![Cybersecurity Flag](07-flag-cybersecurity-captured.png)
 
 ---
 
